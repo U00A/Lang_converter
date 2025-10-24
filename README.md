@@ -439,13 +439,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - FastAPI team for the excellent framework
 - All contributors and testers
 
-## 📞 Support
-
-- **Documentation**: [Full Documentation](docs/)
-- **Issues**: [GitHub Issues](issues/)
-- **Discussions**: [GitHub Discussions](discussions/)
-- **Email**: support@codeconverter.ai
-
 ---
-
-**Built with ❤️ for developers by developers**
